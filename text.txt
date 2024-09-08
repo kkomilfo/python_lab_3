@@ -1,0 +1,1 @@
+Jest to niezwykle długie i nudne badanie, które nie jest jasne w wymaganiach i nie uczy niczego nowego.
